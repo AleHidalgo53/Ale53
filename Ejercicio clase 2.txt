@@ -1,2 +1,3 @@
 Ejercicio clase 2
 Edición desde git hub
+segunda edición
