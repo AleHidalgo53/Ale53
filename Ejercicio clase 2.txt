@@ -1,3 +1,7 @@
 Ejercicio clase 2
 Edición desde git hub
+<<<<<<< HEAD
 Edición local
+=======
+segunda edición
+>>>>>>> 2f12d7722f1f9177b7aa0912521192eee08d69f1
